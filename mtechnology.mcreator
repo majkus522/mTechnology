@@ -1303,7 +1303,7 @@
       "name": "ExtruderController",
       "type": "block",
       "sortid": 136,
-      "compiles": false,
+      "compiles": true,
       "locked_code": true,
       "registry_name": "extruder_controller",
       "path": "~/multiblocks/extruder"
