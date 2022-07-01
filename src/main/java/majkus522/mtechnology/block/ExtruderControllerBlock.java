@@ -38,7 +38,9 @@ import net.minecraft.core.BlockPos;
 
 import majkus522.mtechnology.world.inventory.ExtruderGuiMenu;
 import majkus522.mtechnology.procedures.ExtruderHandleProcedure;
+import majkus522.mtechnology.procedures.CheckMultiblockProcedure;
 import majkus522.mtechnology.block.entity.ExtruderControllerBlockEntity;
+import majkus522.mtechnology.Extruder;
 
 import java.util.Random;
 import java.util.List;
@@ -172,3 +174,4 @@ public class ExtruderControllerBlock extends Block
 			return 0;
 	}
 }
+
