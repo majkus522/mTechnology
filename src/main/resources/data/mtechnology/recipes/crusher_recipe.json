@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CPL",
+    "L L",
+    "LPR"
+  ],
+  "key": {
+    "C": {
+      "item": "mtechnology:copper_coil_block"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "L": {
+      "tag": "forge:plates/iron"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "mtechnology:crusher",
+    "count": 1
+  }
+}

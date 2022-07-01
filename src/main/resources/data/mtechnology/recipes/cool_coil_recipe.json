@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CB",
+    "CB"
+  ],
+  "key": {
+    "C": {
+      "item": "mtechnology:copper_coil"
+    },
+    "B": {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "result": {
+    "item": "mtechnology:cool_coil",
+    "count": 1
+  }
+}

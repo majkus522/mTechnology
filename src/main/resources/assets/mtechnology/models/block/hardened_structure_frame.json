@@ -1,0 +1,8 @@
+{
+  "parent": "mtechnology:custom/hardened_structure_frame",
+  "textures": {
+    "all": "mtechnology:blocks/hardened_structure_frame",
+    "particle": "mtechnology:blocks/hardened_structure_frame",
+    "structure_frame": "mtechnology:blocks/hardened_structure_frame"
+  }
+}

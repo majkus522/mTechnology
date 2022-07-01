@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mtechnology:blocks/copper_coil",
+    "up": "mtechnology:blocks/copper_coil",
+    "north": "mtechnology:blocks/copper_coil",
+    "east": "mtechnology:blocks/copper_coil",
+    "south": "mtechnology:blocks/copper_coil",
+    "west": "mtechnology:blocks/copper_coil",
+    "particle": "mtechnology:blocks/copper_coil"
+  }
+}

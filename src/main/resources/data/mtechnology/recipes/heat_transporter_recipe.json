@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " H ",
+    "HSH",
+    " H "
+  ],
+  "key": {
+    "H": {
+      "item": "mtechnology:heat_conduit"
+    },
+    "S": {
+      "item": "mtechnology:structure_frame"
+    }
+  },
+  "result": {
+    "item": "mtechnology:heat_transporter",
+    "count": 1
+  }
+}

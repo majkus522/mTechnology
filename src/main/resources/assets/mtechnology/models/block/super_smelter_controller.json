@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mtechnology:blocks/heater",
+    "up": "mtechnology:blocks/heater",
+    "north": "mtechnology:blocks/furnace_front",
+    "east": "mtechnology:blocks/holo_projected_copper_block",
+    "south": "mtechnology:blocks/holo_projected_copper_block",
+    "west": "mtechnology:blocks/holo_projected_copper_block",
+    "particle": "mtechnology:blocks/heater"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:SteelBlock"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "blocks/steel",
+    "namespace": "forge"
+  }
+}

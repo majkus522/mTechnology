@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "structure_frame": "structure_frame",
+        "heater": "cooler"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "structure_frame": "structure_frame"
+      },
+      "name": "default"
+    },
+    "holo": {
+      "map": {
+        "structure_frame": "holo_projected_structure_frame"
+      },
+      "name": "holo"
+    }
+  }
+}

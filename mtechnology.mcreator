@@ -1,0 +1,1585 @@
+{
+  "mod_elements": [
+    {
+      "name": "StructureFrame",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "structure_frame",
+      "path": "~/multiblocks/parts/structureFrame"
+    },
+    {
+      "name": "IronDust",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_dust",
+      "path": "~/materials/iron"
+    },
+    {
+      "name": "Materials",
+      "type": "tab",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "materials"
+    },
+    {
+      "name": "SteelIngot",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_ingot",
+      "path": "~/materials/steel"
+    },
+    {
+      "name": "SteelBlock",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_block",
+      "path": "~/materials/steel"
+    },
+    {
+      "name": "SteelBlockCrafting",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_block_crafting",
+      "path": "~/materials/steel"
+    },
+    {
+      "name": "SteelBlockUncrafting",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_block_uncrafting",
+      "path": "~/materials/steel"
+    },
+    {
+      "name": "IronDustSmelting",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_dust_smelting",
+      "path": "~/materials/iron"
+    },
+    {
+      "name": "IronDustBlasting",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_dust_blasting",
+      "path": "~/materials/iron"
+    },
+    {
+      "name": "CopperDust",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_dust",
+      "path": "~/materials/copper"
+    },
+    {
+      "name": "CopperDustSmelting",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_dust_smelting",
+      "path": "~/materials/copper"
+    },
+    {
+      "name": "CopperDustBlasting",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_dust_blasting",
+      "path": "~/materials/copper"
+    },
+    {
+      "name": "CopperCoil",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_coil",
+      "path": "~/materials/copper"
+    },
+    {
+      "name": "CopperWire",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_wire",
+      "path": "~/materials/copper"
+    },
+    {
+      "name": "CopperCoilRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_coil_recipe",
+      "path": "~/materials/copper"
+    },
+    {
+      "name": "CopperWireCrafting",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_wire_crafting",
+      "path": "~/materials/copper"
+    },
+    {
+      "name": "HoloProjectedStructureFrame",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holo_projected_structure_frame",
+      "path": "~/multiblocks/parts/structureFrame"
+    },
+    {
+      "name": "SteelPlate",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_plate",
+      "path": "~/materials/steel"
+    },
+    {
+      "name": "SteelRod",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_rod",
+      "path": "~/materials/steel"
+    },
+    {
+      "name": "SteelRodCrafting",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_rod_crafting",
+      "path": "~/materials/steel"
+    },
+    {
+      "name": "StructureFrameRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "structure_frame_recipe",
+      "path": "~/multiblocks/parts/structureFrame"
+    },
+    {
+      "name": "IronDustItemTag",
+      "type": "tag",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_dust_item_tag",
+      "path": "~/materials/iron/tags"
+    },
+    {
+      "name": "SteelIngotItemTag",
+      "type": "tag",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_ingot_item_tag",
+      "path": "~/materials/steel/tags"
+    },
+    {
+      "name": "SteelBlockItemTag",
+      "type": "tag",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_block_item_tag",
+      "path": "~/materials/steel/tags"
+    },
+    {
+      "name": "SteelBlockBlockTag",
+      "type": "tag",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_block_block_tag",
+      "path": "~/materials/steel/tags"
+    },
+    {
+      "name": "SteelPlateItemTag",
+      "type": "tag",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_plate_item_tag",
+      "path": "~/materials/steel/tags"
+    },
+    {
+      "name": "SteelRodItemTag",
+      "type": "tag",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_rod_item_tag",
+      "path": "~/materials/steel/tags"
+    },
+    {
+      "name": "Heater",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heater",
+      "path": "~/multiblocks/parts/heater"
+    },
+    {
+      "name": "HeatTransporter",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heat_transporter",
+      "path": "~/multiblocks/parts/heatTransporter"
+    },
+    {
+      "name": "SuperSmelter",
+      "type": "code",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "super_smelter",
+      "path": "~/multiblocks/superSmelter"
+    },
+    {
+      "name": "SuperSmelterController",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "super_smelter_controller",
+      "path": "~/multiblocks/superSmelter"
+    },
+    {
+      "name": "Machines",
+      "type": "tab",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "machines"
+    },
+    {
+      "name": "CheckMultiblock",
+      "type": "procedure",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "check_multiblock",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/multiblocks"
+    },
+    {
+      "name": "SuperSmelterGui",
+      "type": "gui",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_smelter_gui",
+      "path": "~/multiblocks/superSmelter"
+    },
+    {
+      "name": "HeatCoil",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heat_coil",
+      "path": "~/multiblocks/parts/heater"
+    },
+    {
+      "name": "HeatCoilRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heat_coil_recipe",
+      "path": "~/multiblocks/parts/heater"
+    },
+    {
+      "name": "HeaterRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heater_recipe",
+      "path": "~/multiblocks/parts/heater"
+    },
+    {
+      "name": "HeatConduit",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heat_conduit",
+      "path": "~/multiblocks/parts/heatTransporter"
+    },
+    {
+      "name": "HeatConduitRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heat_conduit_recipe",
+      "path": "~/multiblocks/parts/heatTransporter"
+    },
+    {
+      "name": "HeatTransporterRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heat_transporter_recipe",
+      "path": "~/multiblocks/parts/heatTransporter"
+    },
+    {
+      "name": "JeiDescriptions",
+      "type": "code",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "jei_descriptions",
+      "path": "~/jei"
+    },
+    {
+      "name": "CopperWireItemTag",
+      "type": "tag",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_wire_item_tag",
+      "path": "~/materials/copper/tags"
+    },
+    {
+      "name": "CopperDustItemTag",
+      "type": "tag",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_dust_item_tag",
+      "path": "~/materials/copper/tags"
+    },
+    {
+      "name": "CopperCoilItemTag",
+      "type": "tag",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_coil_item_tag",
+      "path": "~/materials/copper/tags"
+    },
+    {
+      "name": "Crusher",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crusher",
+      "path": "~/machines/crusher"
+    },
+    {
+      "name": "CrusherGui",
+      "type": "gui",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crusher_gui",
+      "path": "~/machines/crusher"
+    },
+    {
+      "name": "CrusherHandle",
+      "type": "procedure",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "crusher_handle",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/machines/crusher"
+    },
+    {
+      "name": "AlloySmelter",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alloy_smelter",
+      "path": "~/machines/alloySmelter"
+    },
+    {
+      "name": "AlloySmelterGui",
+      "type": "gui",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alloy_smelter_gui",
+      "path": "~/machines/alloySmelter"
+    },
+    {
+      "name": "AlloySmelterHandle",
+      "type": "procedure",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "alloy_smelter_handle",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/machines/alloySmelter"
+    },
+    {
+      "name": "CrusherJei",
+      "type": "code",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "crusher_jei",
+      "path": "~/jei/machines"
+    },
+    {
+      "name": "AlloySmelterJei",
+      "type": "code",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "alloy_smelter_jei",
+      "path": "~/jei/machines"
+    },
+    {
+      "name": "CoalDust",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coal_dust",
+      "path": "~/materials/coal"
+    },
+    {
+      "name": "Graphene",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphene",
+      "path": "~/materials/coal"
+    },
+    {
+      "name": "GrapheneNanotube",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphene_nanotube",
+      "path": "~/materials/coal"
+    },
+    {
+      "name": "CoalDustItemTag",
+      "type": "tag",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coal_dust_item_tag",
+      "path": "~/materials/coal/tags"
+    },
+    {
+      "name": "IronPlate",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_plate",
+      "path": "~/materials/iron"
+    },
+    {
+      "name": "IronPlateItemTag",
+      "type": "tag",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_plate_item_tag",
+      "path": "~/materials/iron/tags"
+    },
+    {
+      "name": "Recipe",
+      "type": "code",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "recipe",
+      "path": "~/jei"
+    },
+    {
+      "name": "CrusherData",
+      "type": "code",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "crusher_data",
+      "path": "~/machines/crusher"
+    },
+    {
+      "name": "MachineModifire",
+      "type": "code",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "machine_modifire",
+      "path": "~/machines"
+    },
+    {
+      "name": "ExtensionMethods",
+      "type": "code",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "extension_methods"
+    },
+    {
+      "name": "AlloySmelterData",
+      "type": "code",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "alloy_smelter_data",
+      "path": "~/machines/alloySmelter"
+    },
+    {
+      "name": "SolarPanel",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solar_panel",
+      "path": "~/generators/solarPanel"
+    },
+    {
+      "name": "SolarPanelHandle",
+      "type": "procedure",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solar_panel_handle",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/generators/solarPanel"
+    },
+    {
+      "name": "CrusherRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crusher_recipe",
+      "path": "~/machines/crusher"
+    },
+    {
+      "name": "AlloySmelterRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alloy_smelter_recipe",
+      "path": "~/machines/alloySmelter"
+    },
+    {
+      "name": "CopperCoilBlock",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_coil_block",
+      "path": "~/materials/copper"
+    },
+    {
+      "name": "CopperCoilBlockRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_coil_block_recipe",
+      "path": "~/materials/copper"
+    },
+    {
+      "name": "MetalCutter",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_cutter",
+      "path": "~/tools/metalCutters"
+    },
+    {
+      "name": "MetalCutterRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_cutter_recipe",
+      "path": "~/tools/metalCutters"
+    },
+    {
+      "name": "MoldPressRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mold_press_recipe",
+      "path": "~/machines/moldPress"
+    },
+    {
+      "name": "MoldPressHandle",
+      "type": "procedure",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "mold_press_handle",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/machines/moldPress"
+    },
+    {
+      "name": "MoldPressData",
+      "type": "code",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "mold_press_data",
+      "path": "~/machines/moldPress"
+    },
+    {
+      "name": "Mold",
+      "type": "item",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mold",
+      "path": "~/machines/moldPress/molds"
+    },
+    {
+      "name": "MoldRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mold_recipe",
+      "path": "~/machines/moldPress/molds"
+    },
+    {
+      "name": "MoldPlate",
+      "type": "item",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mold_plate",
+      "path": "~/machines/moldPress/molds"
+    },
+    {
+      "name": "MoldPressJei",
+      "type": "code",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "mold_press_jei",
+      "path": "~/jei/machines"
+    },
+    {
+      "name": "MoldRod",
+      "type": "item",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mold_rod",
+      "path": "~/machines/moldPress/molds"
+    },
+    {
+      "name": "MoldPress",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mold_press",
+      "path": "~/machines/moldPress"
+    },
+    {
+      "name": "MoldPressGui",
+      "type": "gui",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mold_press_gui",
+      "path": "~/machines/moldPress"
+    },
+    {
+      "name": "MoldFrame",
+      "type": "item",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mold_frame",
+      "path": "~/machines/moldPress/molds"
+    },
+    {
+      "name": "MetalFormer",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_former",
+      "path": "~/machines/metalFormer"
+    },
+    {
+      "name": "MetalFormerData",
+      "type": "code",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "metal_former_data",
+      "path": "~/machines/metalFormer"
+    },
+    {
+      "name": "MetalFormerHandle",
+      "type": "procedure",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "metal_former_handle",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/machines/metalFormer"
+    },
+    {
+      "name": "MetalFormerGui",
+      "type": "gui",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "metal_former_gui",
+      "path": "~/machines/metalFormer"
+    },
+    {
+      "name": "MetalFormerJei",
+      "type": "code",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "metal_former_jei",
+      "path": "~/jei/machines"
+    },
+    {
+      "name": "Hammer",
+      "type": "tool",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hammer",
+      "path": "~/tools/hammer"
+    },
+    {
+      "name": "HammerRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hammer_recipe",
+      "path": "~/tools/hammer"
+    },
+    {
+      "name": "IronPlateRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_plate_recipe",
+      "path": "~/materials/iron"
+    },
+    {
+      "name": "SteelPlateRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_plate_recipe",
+      "path": "~/materials/steel"
+    },
+    {
+      "name": "LeadIngot",
+      "type": "item",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ingot",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "LeadDust",
+      "type": "item",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_dust",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "LeadBlock",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_block",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "LeadOre",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ore",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "LeadDustSmelting",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_dust_smelting",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "LeadDustBlasting",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_dust_blasting",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "LeadBlockCrafting",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_block_crafting",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "LeadBlockUncrafting",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_block_uncrafting",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "LeadIngotItemTag",
+      "type": "tag",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ingot_item_tag",
+      "path": "~/materials/lead/tags"
+    },
+    {
+      "name": "LeadDustItemTag",
+      "type": "tag",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_dust_item_tag",
+      "path": "~/materials/lead/tags"
+    },
+    {
+      "name": "LeadOreItemTag",
+      "type": "tag",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ore_item_tag",
+      "path": "~/materials/lead/tags"
+    },
+    {
+      "name": "LeadBlockItemTag",
+      "type": "tag",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_block_item_tag",
+      "path": "~/materials/lead/tags"
+    },
+    {
+      "name": "LeadOreBlockTag",
+      "type": "tag",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ore_block_tag",
+      "path": "~/materials/lead/tags"
+    },
+    {
+      "name": "LeadBlockBlockTag",
+      "type": "tag",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_block_block_tag",
+      "path": "~/materials/lead/tags"
+    },
+    {
+      "name": "RawLead",
+      "type": "item",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_lead",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "RawLeadBlock",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_lead_block",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "RawLeadBlockCrafting",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_lead_block_crafting",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "RawLeadUncrafting",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_lead_uncrafting",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "LeadOreSmelting",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ore_smelting",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "LeadOreBlasting",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ore_blasting",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "RawLeadSmelting",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_lead_smelting",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "RawLeadBlasting",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_lead_blasting",
+      "path": "~/materials/lead"
+    },
+    {
+      "name": "MetalFormerRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_former_recipe",
+      "path": "~/machines/metalFormer"
+    },
+    {
+      "name": "MoldsItemTag",
+      "type": "tag",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molds_item_tag",
+      "path": "~/machines/moldPress/molds"
+    },
+    {
+      "name": "HardenedSteelIngot",
+      "type": "item",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hardened_steel_ingot",
+      "path": "~/materials/hardenedSteel"
+    },
+    {
+      "name": "HardenedSteelIngotRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hardened_steel_ingot_recipe",
+      "path": "~/materials/hardenedSteel"
+    },
+    {
+      "name": "HardenedSteelPlate",
+      "type": "item",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hardened_steel_plate",
+      "path": "~/materials/hardenedSteel"
+    },
+    {
+      "name": "HardenedSteelRod",
+      "type": "item",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hardened_steel_rod",
+      "path": "~/materials/hardenedSteel"
+    },
+    {
+      "name": "HardenedSteelPlateRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hardened_steel_plate_recipe",
+      "path": "~/materials/hardenedSteel"
+    },
+    {
+      "name": "HardenedSteelRodCrafting",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hardened_steel_rod_crafting",
+      "path": "~/materials/hardenedSteel"
+    },
+    {
+      "name": "HardenedStructureFrame",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hardened_structure_frame",
+      "path": "~/multiblocks/parts/hardenedStructureFrame"
+    },
+    {
+      "name": "SuperSmelterHandle",
+      "type": "procedure",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "super_smelter_handle",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/multiblocks/superSmelter"
+    },
+    {
+      "name": "SuperSmelterJei",
+      "type": "code",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "super_smelter_jei",
+      "path": "~/jei/multiblocks"
+    },
+    {
+      "name": "Cooler",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooler",
+      "path": "~/multiblocks/parts/cooler"
+    },
+    {
+      "name": "CoolCoil",
+      "type": "item",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cool_coil",
+      "path": "~/multiblocks/parts/cooler"
+    },
+    {
+      "name": "CoolCoilRecipe",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cool_coil_recipe",
+      "path": "~/multiblocks/parts/cooler"
+    },
+    {
+      "name": "CoolerRecipe",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooler_recipe",
+      "path": "~/multiblocks/parts/cooler"
+    },
+    {
+      "name": "Extruder",
+      "type": "code",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "extruder",
+      "path": "~/multiblocks/extruder"
+    },
+    {
+      "name": "ExtruderController",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "extruder_controller",
+      "path": "~/multiblocks/extruder"
+    },
+    {
+      "name": "ExtruderGui",
+      "type": "gui",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extruder_gui",
+      "path": "~/multiblocks/extruder"
+    },
+    {
+      "name": "ExtruderHandle",
+      "type": "procedure",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extruder_handle",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/multiblocks/extruder"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.mtechnology.copper_dust": "Copper Dust",
+      "itemGroup.tabmachines": "Machines",
+      "jei.mtechnology.alloy_smelter.title": "Alloy Smelter",
+      "block.mtechnology.steel_block": "Steel Block",
+      "item.mtechnology.iron_plate": "Iron Plate",
+      "block.mtechnology.alloy_smelter": "Alloy Smelter",
+      "item.mtechnology.iron_dust": "Iron Dust",
+      "item.mtechnology.lead_ingot": "Lead Ingot",
+      "jei.mtechnology.super_smelter_controller": "",
+      "jei.mtechnology.mold_press.title": "Mold Press",
+      "item.mtechnology.mold_rod": "Mold Rod",
+      "block.mtechnology.structure_frame": "Structure Frame",
+      "itemGroup.tabmaterials": "Materials",
+      "block.mtechnology.super_smelter_controller": "Super Smelter Controller",
+      "item.mtechnology.steel_rod": "Steel Rod",
+      "item.mtechnology.coal_dust": "Coal Dust",
+      "item.mtechnology.mold_frame": "Mold Frame",
+      "block.mtechnology.cooler": "Cooler",
+      "item.mtechnology.hammer": "Hammer",
+      "item.mtechnology.hardened_steel_ingot": "Hardened Steel Ingot",
+      "item.mtechnology.graphene": "Graphene",
+      "block.mtechnology.mold_press": "Mold Press",
+      "block.mtechnology.heater": "Heater",
+      "block.mtechnology.raw_lead_block": "Raw Lead Block",
+      "item.mtechnology.heat_conduit": "Heat Conduit",
+      "item.mtechnology.raw_lead": "Raw Lead",
+      "item.mtechnology.copper_wire": "Copper Wire",
+      "jei.mtechnology.crusher.title": "Crusher",
+      "item.mtechnology.cool_coil": "Cool Coil",
+      "block.mtechnology.solar_panel": "Solar Panel",
+      "item.mtechnology.steel_ingot": "Steel Ingot",
+      "block.mtechnology.copper_coil_block": "Copper Coil",
+      "block.mtechnology.heat_transporter": "Heat Transporter",
+      "item.mtechnology.hardened_steel_plate": "Hardened Steel Plate",
+      "block.mtechnology.lead_block": "Lead Block",
+      "item.mtechnology.hardened_steel_rod": "Hardened Steel Rod",
+      "item.mtechnology.mold": "Mold",
+      "item.mtechnology.graphene_nanotube": "Graphene Nanotube",
+      "block.mtechnology.hardened_structure_frame": "Hardened Structure Frame",
+      "item.mtechnology.steel_plate": "Steel Plate",
+      "block.mtechnology.extruder_controller": "Extruder Controller",
+      "item.mtechnology.copper_coil": "Copper Coil",
+      "jei.mtechnology.super_smelter.title": "Super Smelter",
+      "block.mtechnology.lead_ore": "Lead Ore",
+      "block.mtechnology.crusher": "Crusher",
+      "jei.mtechnology.metal_former.title": "Metal Former",
+      "item.mtechnology.mold_plate": "Mold Plate",
+      "block.mtechnology.holo_projected_structure_frame": "Holo Projected Structure Frame",
+      "item.mtechnology.heat_coil": "Heat Coil",
+      "item.mtechnology.metal_cutter": "Metal Cutter",
+      "block.mtechnology.metal_former": "Metal Former",
+      "item.mtechnology.lead_dust": "Lead Dust"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "materials",
+        "children": [
+          {
+            "name": "iron",
+            "children": [
+              {
+                "name": "tags",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "steel",
+            "children": [
+              {
+                "name": "tags",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "copper",
+            "children": [
+              {
+                "name": "tags",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "coal",
+            "children": [
+              {
+                "name": "tags",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "lead",
+            "children": [
+              {
+                "name": "tags",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "hardenedSteel",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "multiblocks",
+        "children": [
+          {
+            "name": "parts",
+            "children": [
+              {
+                "name": "structureFrame",
+                "children": []
+              },
+              {
+                "name": "heater",
+                "children": []
+              },
+              {
+                "name": "heatTransporter",
+                "children": []
+              },
+              {
+                "name": "hardenedStructureFrame",
+                "children": []
+              },
+              {
+                "name": "cooler",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "superSmelter",
+            "children": []
+          },
+          {
+            "name": "extruder",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "machines",
+        "children": [
+          {
+            "name": "crusher",
+            "children": []
+          },
+          {
+            "name": "alloySmelter",
+            "children": []
+          },
+          {
+            "name": "moldPress",
+            "children": [
+              {
+                "name": "molds",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "metalFormer",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "jei",
+        "children": [
+          {
+            "name": "multiblocks",
+            "children": []
+          },
+          {
+            "name": "machines",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "generators",
+        "children": [
+          {
+            "name": "solarPanel",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "tools",
+        "children": [
+          {
+            "name": "metalCutters",
+            "children": []
+          },
+          {
+            "name": "hammer",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "mtechnology",
+    "modName": "mTechnology",
+    "version": "1.0.0",
+    "author": "majkus522, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "majkus522.mtechnology",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

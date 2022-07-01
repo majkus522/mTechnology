@@ -1,0 +1,9 @@
+{
+  "parent": "mtechnology:custom/cooler",
+  "textures": {
+    "all": "mtechnology:blocks/cooler",
+    "particle": "mtechnology:blocks/cooler",
+    "structure_frame": "mtechnology:blocks/structure_frame",
+    "heater": "mtechnology:blocks/cooler"
+  }
+}

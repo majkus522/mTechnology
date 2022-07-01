@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "mtechnology:mold_frame",
+    "mtechnology:mold_plate",
+    "mtechnology:mold_rod"
+  ]
+}

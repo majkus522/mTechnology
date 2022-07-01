@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CM",
+    "CM"
+  ],
+  "key": {
+    "C": {
+      "item": "mtechnology:copper_coil"
+    },
+    "M": {
+      "item": "minecraft:magma_block"
+    }
+  },
+  "result": {
+    "item": "mtechnology:heat_coil",
+    "count": 1
+  }
+}

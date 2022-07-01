@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:coils/copper"
+      },
+      {
+        "value": "TAG:forge:coils/copper"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:coils/copper"
+      },
+      {
+        "value": "TAG:forge:coils/copper"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CopperCoilBlock"
+    },
+    "name": "copper_coil_block_recipe",
+    "namespace": "mod"
+  }
+}

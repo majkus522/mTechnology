@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "structure_frame": "structure_frame",
+        "heater": "heater"
+      },
+      "name": "default"
+    },
+    "holo": {
+      "map": {
+        "structure_frame": "holo_projected_structure_frame",
+        "heater": "holo_projected_heater"
+      },
+      "name": "holo"
+    }
+  }
+}

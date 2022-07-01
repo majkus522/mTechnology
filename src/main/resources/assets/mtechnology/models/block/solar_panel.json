@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mtechnology:blocks/solar_panel_top",
+    "up": "mtechnology:blocks/solar_panel_top",
+    "north": "mtechnology:blocks/solar_panel_top",
+    "east": "mtechnology:blocks/solar_panel_top",
+    "south": "mtechnology:blocks/solar_panel_top",
+    "west": "mtechnology:blocks/solar_panel_top",
+    "particle": "mtechnology:blocks/solar_panel_top"
+  }
+}

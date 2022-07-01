@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mtechnology:blocks/steel_block",
+    "up": "mtechnology:blocks/steel_block",
+    "north": "mtechnology:blocks/steel_block",
+    "east": "mtechnology:blocks/steel_block",
+    "south": "mtechnology:blocks/steel_block",
+    "west": "mtechnology:blocks/steel_block",
+    "particle": "mtechnology:blocks/steel_block"
+  }
+}

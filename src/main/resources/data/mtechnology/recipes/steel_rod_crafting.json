@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    " # ",
+    "#  "
+  ],
+  "key": {
+    "#": {
+      "item": "mtechnology:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "mtechnology:steel_rod",
+    "count": 2
+  }
+}

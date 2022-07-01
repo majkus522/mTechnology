@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "structure_frame": "hardened_structure_frame"
+      },
+      "name": "default"
+    }
+  }
+}

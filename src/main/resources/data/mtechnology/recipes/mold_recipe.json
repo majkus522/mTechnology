@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "mtechnology:hardened_steel_plate"
+    }
+  },
+  "result": {
+    "item": "mtechnology:mold",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mtechnology:blocks/lead_block",
+    "up": "mtechnology:blocks/lead_block",
+    "north": "mtechnology:blocks/lead_block",
+    "east": "mtechnology:blocks/lead_block",
+    "south": "mtechnology:blocks/lead_block",
+    "west": "mtechnology:blocks/lead_block",
+    "particle": "mtechnology:blocks/lead_block"
+  }
+}

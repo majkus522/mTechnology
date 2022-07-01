@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "structure_frame": "structure_frame",
+        "transporter": "holo_projected_copper_block"
+      },
+      "name": "default"
+    },
+    "holo": {
+      "map": {
+        "structure_frame": "holo_projected_structure_frame",
+        "transporter": "holo_projected_copper_block"
+      },
+      "name": "holo"
+    }
+  }
+}

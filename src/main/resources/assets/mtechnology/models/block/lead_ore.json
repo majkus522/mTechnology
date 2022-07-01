@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mtechnology:blocks/lead_ore",
+    "up": "mtechnology:blocks/lead_ore",
+    "north": "mtechnology:blocks/lead_ore",
+    "east": "mtechnology:blocks/lead_ore",
+    "south": "mtechnology:blocks/lead_ore",
+    "west": "mtechnology:blocks/lead_ore",
+    "particle": "mtechnology:blocks/lead_ore"
+  }
+}

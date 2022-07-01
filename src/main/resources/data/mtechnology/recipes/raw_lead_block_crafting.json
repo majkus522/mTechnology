@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mtechnology:raw_lead"
+    }
+  },
+  "result": {
+    "item": "mtechnology:raw_lead_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "mtechnology:custom/heat_transporter",
+  "textures": {
+    "all": "mtechnology:blocks/holo_projected_copper_block",
+    "particle": "mtechnology:blocks/holo_projected_copper_block",
+    "structure_frame": "mtechnology:blocks/structure_frame",
+    "transporter": "mtechnology:blocks/holo_projected_copper_block"
+  }
+}

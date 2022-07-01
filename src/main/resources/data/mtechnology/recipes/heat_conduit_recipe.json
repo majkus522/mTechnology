@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mtechnology:copper_coil"
+    }
+  },
+  "result": {
+    "item": "mtechnology:heat_conduit",
+    "count": 2
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 600,
+  "ingredient": {
+    "item": "mtechnology:steel_ingot"
+  },
+  "result": "mtechnology:hardened_steel_ingot"
+}
